@@ -10,14 +10,14 @@ The new analysis is aimed at visualizing the ride-sharing data for total fares b
 
 #### Overall Summary
 
-By looking at the overall summary (table)[LINK], it can be seen that urban areas generate the most number of rides and therefore highest total fares. However, on a average fare per ride basis, rural areas generate $10 more per ride than urban areas. This is the same outcome for average fare per driver, as drivers in rural areas collect on average $55.49 per ride, whereas urban drivers only generate on average $16.57 per ride, a difference of about $40. 
+By looking at the overall summary [table](https://github.com/donovancai/PyBer_Analysis/blob/main/analysis/summary.png), it can be seen that urban areas generate the most number of rides and therefore highest total fares. However, on a average fare per ride basis, rural areas generate $10 more per ride than urban areas. This is the same outcome for average fare per driver, as drivers in rural areas collect on average $55.49 per ride, whereas urban drivers only generate on average $16.57 per ride, a difference of about $40. 
 
 These differences can be explained by the vast amount of drivers in urban areas vs. rural. Although total fares for urban areas are about 9x that of rural areas, there are also about 30x more urban drivers than rural. This quickly brings down the average fare per ride and driver.
 
 
 #### Weekly Performance
 
-Looking at the weekly trend for each city type ((HERE)[LINK]), it can be concluded that total fares for rural and suburban areas are more consistent than urban areas. A notable mention that can be exhibited by three trend lines is that all city types experienced a spike in fares for third week of February, which includes President’s Day in the US (February 18, 2019). An explanation for the volatility in urban areas’ trend line could be that there are more things to do/happening in urban areas in the month of March as compared to suburban and rural. 
+Looking at the weekly trend for each city type ([seen here](https://github.com/donovancai/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png), it can be concluded that total fares for rural and suburban areas are more consistent than urban areas. A notable mention that can be exhibited by three trend lines is that all city types experienced a spike in fares for third week of February, which includes President’s Day in the US (February 18, 2019). An explanation for the volatility in urban areas’ trend line could be that there are more things to do/happening in urban areas in the month of March as compared to suburban and rural. 
 
 
 ### Summary
