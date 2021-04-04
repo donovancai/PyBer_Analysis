@@ -17,7 +17,7 @@ These differences can be explained by the vast amount of drivers in urban areas 
 
 #### Weekly Performance
 
-Looking at the weekly trend for each city type ([seen here])(https://github.com/donovancai/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png), it can be concluded that total fares for rural and suburban areas are more consistent than urban areas. A notable mention that can be exhibited by three trend lines is that all city types experienced a spike in fares for third week of February, which includes President’s Day in the US (February 18, 2019). An explanation for the volatility in urban areas’ trend line could be that there are more things to do/happening in urban areas in the month of March as compared to suburban and rural. 
+Looking at the weekly trend for each city type ( [seen here] )(https://github.com/donovancai/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png), it can be concluded that total fares for rural and suburban areas are more consistent than urban areas. A notable mention that can be exhibited by three trend lines is that all city types experienced a spike in fares for third week of February, which includes President’s Day in the US (February 18, 2019). An explanation for the volatility in urban areas’ trend line could be that there are more things to do/happening in urban areas in the month of March as compared to suburban and rural. 
 
 
 ### Summary
